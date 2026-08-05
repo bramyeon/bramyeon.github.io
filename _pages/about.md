@@ -38,7 +38,7 @@ My research focuses on <span style="font-weight:700;">applied AI and computation
 
 Previously, I also worked on generative AI methods for antigen-conditioned antibody design.
 
-## not-so-fun facts
+## tmi corner
 
 - I was a chemistry enthusiast, but everything changed when the Fire Nation attacked. 
 - I am an ISTP, a mala and mint chocolate enthusiast, and I love my sugar gliders (thus the 🐿️ icon!).
