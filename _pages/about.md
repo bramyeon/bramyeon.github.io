@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.mpi-sp.org'><b>Max Planck Institute for Security and Privacy (MPI-SP)</b></a> and <a href='https://www.ruhr-uni-bochum.de/en'><b>Ruhr-Universität Bochum (RUB)</b></a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +19,16 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student at the Max Planck Institute for Security and Privacy (MPI-SP) and Ruhr-Universität Bochum (RUB), advised by [Meeyoung Cha](https://www.mpi-sp.org/cha) and [Jean-Louis van Gelder](https://csl.mpg.de/en/jean-louis-van-gelder) ([MPI-CSL](https://csl.mpg.de/en)). I received my MS in Computer Science and BS in Electrical Engineering from the [Korea Advanced Institute of Science and Technology (KAIST)](https://kaist.ac.kr/). I am currently interning remotely for the [United Nations Department of Economic and Social Affairs (UN DESA)](https://www.un.org/en/desa). Previously, I interned at the [Institute for Basic Science (IBS)](https://www.ibs.re.kr/) and [Daewoong Pharmaceutical](https://www.daewoong.co.kr/en) in South Korea. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on <b>applied AI and computational social science for societal impact</b>. I am interested in building data-driven, scalable, and human-centered AI systems to understand human and machine behavior and support decision-making in real-world settings, with applications across security and privacy in the generative AI era, well-being, and public health. I approach this through two aspects: 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+1. Studying the characteristics, behaviors, and emergent (mis)alignments in human-agent and agent-agent interactions, and
+2. Building powerful and explainable representations to analyze the characteristics of individual physical and mental well-being.
+
+Previously, I also worked on generative AI methods for antigen-conditioned antibody design.
