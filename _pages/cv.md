@@ -2,7 +2,7 @@
 layout: cv
 permalink: https://drive.google.com/file/d/1u7VMhRwxD65JzE6d1r3DodPtwHWSOqEi/view
 title: cv
-nav: true
+nav: false
 nav_order: 5
 cv_pdf: https://drive.google.com/file/d/1u7VMhRwxD65JzE6d1r3DodPtwHWSOqEi/view # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
