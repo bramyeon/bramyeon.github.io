@@ -24,10 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-```
-Hey there, nice to meet you! :)
-```
-My name is Bryan (he/him). I am a PhD student at MPI-SP and the Faculty of Computer Science at RUB, advised by [Meeyoung Cha](https://www.mpi-sp.org/cha) and [Jean-Louis van Gelder](https://csl.mpg.de/en/jean-louis-van-gelder) ([MPI-CSL](https://csl.mpg.de/en)). I received my MS in Computer Science and BS in Electrical Engineering from the [Korea Advanced Institute of Science and Technology (KAIST)](https://kaist.ac.kr/). I am currently interning remotely for the [United Nations Department of Economic and Social Affairs (UN DESA)](https://www.un.org/en/desa). Previously, I interned at the [Institute for Basic Science (IBS)](https://www.ibs.re.kr/) and [Daewoong Pharmaceutical](https://www.daewoong.co.kr/en) in South Korea. 
+Hi there! My name is Bryan (he/him). I am a PhD student at MPI-SP and the Faculty of Computer Science at RUB, advised by [Meeyoung Cha](https://www.mpi-sp.org/cha) and [Jean-Louis van Gelder](https://csl.mpg.de/en/jean-louis-van-gelder) ([MPI-CSL](https://csl.mpg.de/en)). I received my MS in Computer Science and BS in Electrical Engineering from the [Korea Advanced Institute of Science and Technology (KAIST)](https://kaist.ac.kr/). I am currently interning remotely for the [United Nations Department of Economic and Social Affairs (UN DESA)](https://www.un.org/en/desa). Previously, I interned at the [Institute for Basic Science (IBS)](https://www.ibs.re.kr/) and [Daewoong Pharmaceutical](https://www.daewoong.co.kr/en) in South Korea. 
 
 Feel free to say hi and connect with me anytime! 🐣
 
