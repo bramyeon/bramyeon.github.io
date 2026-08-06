@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.mpi-sp.org'>Max Planck Institute for Security and Privacy (MPI-SP)</a><br><a href='https://www.ruhr-uni-bochum.de/en'>Ruhr-Universität Bochum (RUB)</a>
+subtitle: <span style="font-weight:700;"><a href='https://www.mpi-sp.org'>Max Planck Institute for Security and Privacy (MPI-SP)</a><br><a href='https://www.ruhr-uni-bochum.de/en'>Ruhr-Universität Bochum (RUB)</a></span>
 
 profile:
   align: right
@@ -31,14 +31,16 @@ Feel free to say hi and connect with me anytime! 🐣
 
 ## research interests 
 
-My research focuses on <b>applied AI and computational social science for societal impact</b>. I am interested in building data-driven, scalable, and human-centered AI systems to understand human and machine behavior and support decision-making in real-world settings, with applications across security and privacy in the generative AI era, well-being, and public health. I approach this through two aspects: 
+My research focuses on <span style="font-weight:700;">applied AI and computational social science for societal impact</span>. I am interested in building data-driven, scalable, and human-centered AI systems to understand human and machine behavior and support decision-making in real-world settings, with applications across security and privacy in the generative AI era, well-being, and public health. I approach this through two aspects: 
 
 1. Studying the characteristics, behaviors, and emergent (mis)alignments in human-agent and agent-agent interactions, and
 2. Building powerful and explainable representations to analyze the characteristics of individual physical and mental well-being.
 
 Previously, I also worked on generative AI methods for antigen-conditioned antibody design.
 
-<b>Keywords:</b> Computational social science, AI for good, well-being, public health, longitudinal data, agentic AI, machine behavior
+#### ⤷ keywords
+
+computational social science, AI for good, well-being, public health, longitudinal data, agentic AI, machine behavior
 
 ## tmi corner
 
