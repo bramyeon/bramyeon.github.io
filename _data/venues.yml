@@ -1,6 +1,6 @@
 "ICML":
   url: https://icml.cc/
-  color: "#60092B"
+  color: "#9D007E"
 
 "ACM CSUR":
   url: https://dl.acm.org/journal/csur
@@ -8,11 +8,11 @@
 
 "HCI Korea":
   url: https://conference.hcikorea.org/
-  color: "#B2A057"
+  color: "#CCA913"
 
 "KSC":
   url: https://www.kiise.or.kr/academy/board/headeventList.fa?MENU_ID=040200#KSC
-  color: "#BA0032"
+  color: "#BD0134"
 
 "mAbs":
   url: https://www.tandfonline.com/journals/kmab20
@@ -20,11 +20,11 @@
 
 "IJCA":
   url: https://nopr.niscpr.res.in/handle/123456789/59
-  color: "#D18800"
+  color: "#FF7B30"
 
 "ChemistrySelect":
   url: https://chemistry-europe.onlinelibrary.wiley.com/journal/23656549
-  color: "#009D1F"
+  color: "#009D6E"
 
 "EIA Review":
   url: https://www.sciencedirect.com/journal/environmental-impact-assessment-review
