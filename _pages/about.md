@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span style="font-weight:700;"><a href='https://www.mpi-sp.org'>Max Planck Institute for Security and Privacy (MPI-SP)</a><br><a href='https://www.ruhr-uni-bochum.de/en'>Ruhr-Universität Bochum (RUB)</a></span>
+subtitle: <a href='https://www.mpi-sp.org'><span style="font-weight:700;">Max Planck Institute for Security and Privacy</span> (MPI-SP)</a><br><a href='https://www.ruhr-uni-bochum.de/en'><span style="font-weight:700;">Ruhr-Universität Bochum</span> (RUB)</a>
 
 profile:
   align: right
