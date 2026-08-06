@@ -6,15 +6,14 @@ cv_pdf: https://drive.google.com/file/d/1u7VMhRwxD65JzE6d1r3DodPtwHWSOqEi/view #
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: QeDc7m4AAAAJ # your Google Scholar ID
+orcid_id: 0009-0007-3509-0519
 x_username: bramyeon
 bluesky_url: https://bsky.app/profile/bramyeon.bsky.social
-instagram_id: bryangraphy
 linkedin_username: bramyeon
 github_username: bramyeon
-orcid_id: 0009-0007-3509-0519
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Buy Me a Coffee
-  url: http://buymeacoffee.com/bramyeon
+# custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+#   title: Buy Me a Coffee
+#   url: http://buymeacoffee.com/bramyeon
