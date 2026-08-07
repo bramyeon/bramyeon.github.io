@@ -9,8 +9,8 @@ cv:
   social_networks:
     - network: X
       username: bramyeon
-    - network: Bluesky
-      username: bramyeon.bsky.social
+    # - network: Bluesky
+    #   username: bramyeon.bsky.social
     - network: GitHub
       username: bramyeon
     - network: LinkedIn
@@ -25,9 +25,9 @@ cv:
 
   sections:
     Education:
-      - institution: Max Planck Institute for Security and Privacy (MPI-SP) & Ruhr-Universität Bochum (RUB)
+      - institution: Max Planck Institute for Security and Privacy (MPI-SP) #& Ruhr-Universität Bochum (RUB)
         location: Bochum, Germany
-        url: https://www.mpi-sp.org & https://www.ruhr-uni-bochum.de/en
+        url: https://www.mpi-sp.org #& https://www.ruhr-uni-bochum.de/en
         area: Computer Science
         studyType: PhD
         start_date: 2026
@@ -36,6 +36,7 @@ cv:
         courses: #"Theory of Relativity"
         highlights:
           - Advisors: Meeyoung Cha & Jean-Louis van Gelder (MPI-CSL)
+          - Degree from Ruhr-Universität Bochum (RUB)
           # - Description 2.
 
       - institution: Korea Advanced Institute of Science and Technology (KAIST)
@@ -112,7 +113,7 @@ cv:
       - title: KAIST Global Presidential Scholarship
         # authors:
           # - "KAIST"
-        date: 2024--2026
+        # date: 2024--2026
         awarder: KAIST
         # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
@@ -120,24 +121,24 @@ cv:
       - title: The 3rd–7th Daewoong AI–Big Data Global Scholarship Program
         # authors:
           # - "German Physical Society"
-        date: 2022--2024
+        # date: 2022--2024
         awarder: Daewoong Foundation
         # summary: Awarded for outstanding scientific achievement
         
       - title: KAIST Full Scholarship for International Undergraduate Students
-        date: 2020--2024
+        # date: 2020--2024
         awarder: KAIST
       - title: Dean's List in Spring 2023
-        date: 2023
+        # date: 2023
         awarder: College of Engineering, KAIST
       - title: Global Korea Scholarship Excellent Self-Financing International Student Scholarship
-        date: 2021, 2023
+        # date: 2021, 2023
         awarder: National Institute for International Education (NIIED)
       - title: The 11th Lee&Won Asian Fellowship Program (with 2 Academic Excellence Awards)
-        date: 2022
+        # date: 2022
         awarder: Lee&Won Foundation
       - title: Daewoong Global Scholarship Program 2021
-        date: 2021
+        # date: 2021
         awarder: Daewoong Foundation
 
     # Publications:
