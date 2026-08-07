@@ -48,7 +48,8 @@ cv:
         highlights:
           - Advisors: Tae-Kyun Kim & Ho Min Kim (Dept. of Biological Sciences)
           - External Supervisor: Meeyoung Cha (MPI-SP)
-          - CGPA: 4.10/4.3 | Thesis: End-to-End Design of Target-Conditioned Antibody Sequences and Structures Using Geometric Deep Learning with Matching and Diffusion Models
+          - CGPA: 4.10/4.3 
+          - Thesis: End-to-End Design of Target-Conditioned Antibody Sequences and Structures Using Geometric Deep Learning with Matching and Diffusion Models
       
       - institution: Korea Advanced Institute of Science and Technology (KAIST)
         location: Daejeon, South Korea
