@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! My name is Bryan (he/him). I am a PhD student at the Data Science for Humanity Group at MPI-SP and the Faculty of Computer Science at RUB, advised by [Meeyoung Cha](https://www.mpi-sp.org/cha) and [Jean-Louis van Gelder](https://csl.mpg.de/en/jean-louis-van-gelder) ([MPI-CSL](https://csl.mpg.de/en)). With a unique background intersecting CS, EE, AI, chemical and biomolecular engineering, and chemistry, I am broadly passionate about applying my knowledge to tackle pressing global challenges—whatever they may be. That said, I especially enjoy working with (messy) real-world data and exploring problems that can lead to actionable insights and meaningful, measurable societal/scientific impact.
+Hi there! My name is Bryan (he/him). I am a PhD student at the Data Science for Humanity Group at MPI-SP and the Faculty of Computer Science at RUB, advised by [Meeyoung Cha](https://www.mpi-sp.org/cha) and [Jean-Louis van Gelder](https://csl.mpg.de/en/jean-louis-van-gelder) ([MPI-CSL](https://csl.mpg.de/en)). With a unique background spanning CS, EE, AI, chemical and biomolecular engineering, and chemistry, I am passionate about applying my knowledge to tackle pressing global challenges—whatever they may be. That said, I especially enjoy working with (messy) real-world data and exploring problems that can lead to actionable insights and meaningful, measurable societal (and scientific) impact.
 
 Prior to MPI-SP, I received my MS in Computer Science and BS in Electrical Engineering from the [Korea Advanced Institute of Science and Technology (KAIST)](https://kaist.ac.kr/). I am currently interning remotely for the [United Nations Department of Economic and Social Affairs (UN DESA)](https://www.un.org/en/desa), and I previously interned at the [Institute for Basic Science (IBS)](https://www.ibs.re.kr/) and [Daewoong Pharmaceutical](https://www.daewoong.co.kr/en) in South Korea.
 
@@ -35,7 +35,7 @@ Feel free to say hi and connect with me anytime! 🐣
 
 My research focuses on <span style="font-weight:700;">applied AI and computational social science for societal impact</span>. I am interested in building data-driven, scalable, and human-centered AI systems to understand human and machine behavior and support decision-making in real-world settings, with applications across well-being, public health, and security and privacy in the generative AI era. I approach this through two aspects: 
 
-1. Building powerful representations to explain the characteristics and underlying factors of―and ultimately enhance―human physical and mental well-being, and
+1. Building powerful representations to enhance human physical and mental well-being: from understanding their characteristics and underlying factors to designing effective interventions; and
 2. Studying the characteristics, behaviors, and emergent (mis)alignments in human-agent and agent-agent interactions.
 
 Previously, I also worked on generative AI methods for antigen-conditioned antibody design.
