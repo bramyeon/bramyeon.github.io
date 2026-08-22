@@ -64,8 +64,13 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <!-- TMI -->
-    {% include tmi.liquid %}
+    <!-- TMI Corner -->
+    {% if page.tmi %}
+      <div class="tmi-section mt-5">
+        <h2>tmi corner</h2>
+        {{ page.tmi | markdownify }}
+      </div>
+    {% endif %}
 
     <!-- Social -->
     {% if page.social %}
