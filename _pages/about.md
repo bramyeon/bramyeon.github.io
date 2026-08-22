@@ -26,7 +26,7 @@ latest_posts:
 tmi: |
   - We might have crossed paths in one of these conferences/workshops: KIISE KSC 2023, AI & Data for Social Good Forum 2024 (Yonsei), ICML 2024, SICSS-Korea 2024, AOTULE 2024, WSDM 2025, CASA & RC Trust Summer School 2025, CIKM 2025, HCI Korea 2026, Ma+Be Conference 2026.
   - I was a chemistry enthusiast, but everything changed when the Fire Nation attacked. 
-  - I am an ISTP, a mala and mint chocolate lover, and I love my sugar gliders (thus the 🐿️ icon!).
+  - I am an ISTP, a mala and mint chocolate lover, and I love my [sugar gliders](https://www.youtube.com/shorts/P4SOS1V83oQ) (thus the 🐿️ icon!).
   - My hobbies are traveling 🏰, [photography](https://www.instagram.com/bryangraphy) 📸, cooking 🥘, singing 🎤, visiting art museums 🏛️, and binge-watching 🍿
   - As a Chinese Indonesian, I also go by Zhixiong Huang (黃智雄), but I barely speak the language 🥲
 
