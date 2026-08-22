@@ -36,7 +36,7 @@ Feel free to say hi and connect with me anytime! 🐣
 My research focuses on <span style="font-weight:700;">applied AI and computational social science for societal impact</span>. I am interested in building data-driven, scalable, and human-centered AI systems to understand human and machine behavior and support decision-making in real-world settings, with applications across well-being, public health, and security and privacy in the generative AI era. I approach this through two aspects: 
 
 1. Building powerful representations to enhance human physical and mental well-being: from understanding their characteristics and underlying factors to designing effective interventions; and
-2. Studying the characteristics, behaviors, and emergent (mis)alignments in human-agent and agent-agent interactions.
+2. Studying the characteristics, behaviors, and emergent (mis)alignments in human-agent and agent-agent interactions, particularly through the lens of bias and safety.
 
 Previously, I also worked on generative AI methods for antigen-conditioned antibody design.
 
