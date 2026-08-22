@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span style="font-weight:700;"><a href='https://www.mpi-sp.org'>Max Planck Institute for Security and Privacy</a></span> (MPI-SP)<br><span style="font-weight:700;"><a href='https://www.ruhr-uni-bochum.de/en'>Ruhr-Universität Bochum</a></span> (RUB)
+subtitle: <b><a href='https://www.mpi-sp.org'>Max Planck Institute for Security and Privacy</a></b> (MPI-SP)<br><b><a href='https://www.ruhr-uni-bochum.de/en'>Ruhr-Universität Bochum</a></b> (RUB)
 
 profile:
   align: right
@@ -24,7 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! My name is Bryan (he/him). I am a PhD student at the Data Science for Humanity Group at MPI-SP and the Faculty of Computer Science at RUB, advised by [Meeyoung Cha](https://www.mpi-sp.org/cha) and [Jean-Louis van Gelder](https://csl.mpg.de/en/jean-louis-van-gelder) ([MPI-CSL](https://csl.mpg.de/en)). I received my MS in Computer Science and BS in Electrical Engineering from the [Korea Advanced Institute of Science and Technology (KAIST)](https://kaist.ac.kr/). I am currently interning remotely for the [United Nations Department of Economic and Social Affairs (UN DESA)](https://www.un.org/en/desa). Previously, I interned at the [Institute for Basic Science (IBS)](https://www.ibs.re.kr/) and [Daewoong Pharmaceutical](https://www.daewoong.co.kr/en) in South Korea.
+Hi there! My name is Bryan (he/him). I am a PhD student at the Data Science for Humanity Group at MPI-SP and the Faculty of Computer Science at RUB, advised by [Meeyoung Cha](https://www.mpi-sp.org/cha) and [Jean-Louis van Gelder](https://csl.mpg.de/en/jean-louis-van-gelder) ([MPI-CSL](https://csl.mpg.de/en)). With a unique background intersecting computer science, electrical engineering, artificial intelligence, chemical and biomolecular engineering, and chemistry, I am broadly passionate about applying my knowledge to tackle pressing global challenges—whatever they may be. That said, I especially enjoy working with (messy) real-world data and exploring problems that can lead to actionable insights and meaningful, measurable societal/scientific impact.
+
+Prior to MPI-SP, I received my MS in Computer Science and BS in Electrical Engineering from the [Korea Advanced Institute of Science and Technology (KAIST)](https://kaist.ac.kr/). I am currently interning remotely for the [United Nations Department of Economic and Social Affairs (UN DESA)](https://www.un.org/en/desa), and I previously interned at the [Institute for Basic Science (IBS)](https://www.ibs.re.kr/) and [Daewoong Pharmaceutical](https://www.daewoong.co.kr/en) in South Korea.
 
 Feel free to say hi and connect with me anytime! 🐣
 
