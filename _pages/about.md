@@ -22,6 +22,14 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+tmi: |
+  - We might have crossed paths in one of these conferences/workshops: KIISE KSC 2023, AI & Data for Social Good Forum 2024 (Yonsei), ICML 2024, SICSS-Korea 2024, AOTULE 2024, WSDM 2025, CASA & RC Trust Summer School 2025, CIKM 2025, HCI Korea 2026, Ma+Be Conference 2026.
+  - I was a chemistry enthusiast, but everything changed when the Fire Nation attacked. 
+  - I am an ISTP, a mala and mint chocolate lover, and I love my sugar gliders (thus the 🐿️ icon!).
+  - My hobbies are traveling 🏰, [photography](https://www.instagram.com/bryangraphy) 📸, cooking 🥘, singing 🎤, visiting art museums 🏛️, and binge-watching 🍿
+  - As a Chinese Indonesian, I also go by Zhixiong Huang (黃智雄), but I barely speak the language 🥲
+
 ---
 
 Hi there! My name is Bryan (he/him). I am a PhD student at the Data Science for Humanity Group at MPI-SP and the Faculty of Computer Science at RUB, advised by [Meeyoung Cha](https://www.mpi-sp.org/cha) and [Jean-Louis van Gelder](https://csl.mpg.de/en/jean-louis-van-gelder). With a unique background spanning CS, EE, AI, ChemBioE, and chemistry, I am passionate about applying my knowledge to tackle pressing global challenges—whatever they may be. That said, I especially enjoy working with (messy) real-world data and exploring problems that can lead to actionable insights and meaningful, measurable societal (and scientific) impact.
