@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! My name is Bryan (he/him). I am a PhD student at the Data Science for Humanity Group at MPI-SP and the Faculty of Computer Science at RUB, advised by [Meeyoung Cha](https://www.mpi-sp.org/cha) and [Jean-Louis van Gelder](https://csl.mpg.de/en/jean-louis-van-gelder) ([MPI-CSL](https://csl.mpg.de/en)). With a unique background spanning CS, EE, AI, chemical and biomolecular engineering, and chemistry, I am passionate about applying my knowledge to tackle pressing global challenges—whatever they may be. That said, I especially enjoy working with (messy) real-world data and exploring problems that can lead to actionable insights and meaningful, measurable societal (and scientific) impact.
+Hi there! My name is Bryan (he/him). I am a PhD student at the Data Science for Humanity Group at MPI-SP and the Faculty of Computer Science at RUB, advised by [Meeyoung Cha](https://www.mpi-sp.org/cha) and [Jean-Louis van Gelder](https://csl.mpg.de/en/jean-louis-van-gelder). With a unique background spanning CS, EE, AI, ChemBioE, and chemistry, I am passionate about applying my knowledge to tackle pressing global challenges—whatever they may be. That said, I especially enjoy working with (messy) real-world data and exploring problems that can lead to actionable insights and meaningful, measurable societal (and scientific) impact.
 
-Prior to MPI-SP, I received my MS in Computer Science and BS in Electrical Engineering from the [Korea Advanced Institute of Science and Technology (KAIST)](https://kaist.ac.kr/). I am currently interning remotely for the [United Nations Department of Economic and Social Affairs (UN DESA)](https://www.un.org/en/desa), and I previously interned at the [Institute for Basic Science (IBS)](https://www.ibs.re.kr/) and [Daewoong Pharmaceutical](https://www.daewoong.co.kr/en) in South Korea.
+Prior to MPI-SP, I received my MS in Computer Science and BS in Electrical Engineering from [KAIST](https://kaist.ac.kr/). I am currently interning remotely for [UN DESA](https://www.un.org/en/desa), and I previously interned at [IBS](https://www.ibs.re.kr/) and [Daewoong Pharmaceutical](https://www.daewoong.co.kr/en) in South Korea.
 
 Feel free to say hi and connect with me anytime! 🐣
 
