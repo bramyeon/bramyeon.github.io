@@ -36,7 +36,7 @@ Hi there! My name is Bryan (he/him). I am a PhD student at the Data Science for 
 
 Prior to MPI-SP, I received my MS in Computer Science and BS in Electrical Engineering (with AI specialization and ChemBioE minor) from [KAIST](https://kaist.ac.kr/). I am currently interning remotely for [UN DESA](https://www.un.org/en/desa), and I previously interned at [IBS](https://www.ibs.re.kr/) and [Daewoong Pharmaceutical](https://www.daewoong.co.kr/en) in South Korea.
 
-Feel free to say hi and connect with me anytime! 🐣
+<b>Feel free to say hi and connect with me anytime!</b> If you happen to be in Ruhrpott or NRW, we can go and have a chat over currywurst too 🐣 
 
 
 ## research interests 
