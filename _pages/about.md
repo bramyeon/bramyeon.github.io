@@ -36,12 +36,12 @@ Hi there! My name is Bryan (he/him). I am a PhD student at the Data Science for 
 
 Prior to MPI-SP, I received my MS in Computer Science and BS in Electrical Engineering (with AI specialization and ChemBioE minor) from [KAIST](https://kaist.ac.kr/). I am currently interning remotely for [UN DESA](https://www.un.org/en/desa), and I previously interned at [IBS](https://www.ibs.re.kr/) and [Daewoong Pharmaceutical](https://www.daewoong.co.kr/en) in South Korea.
 
-<span style="font-weight:500;">Feel free to say hi and connect with me anytime!</span> If you happen to be in Ruhrpott or NRW, we can also meet and have a chat over currywurst 🐣 
+<span style="font-weight:700;">Feel free to say hi and connect with me anytime!</span> If you happen to be in Ruhrpott or NRW, we can also meet and have a chat over currywurst 🐣 
 
 
 ## research interests 
 
-My research focuses on <span style="font-weight:500;">applied AI and computational social science for societal impact</span>. I am interested in building data-driven, scalable, and human-centered AI systems to understand human and machine behavior and support decision-making in real-world settings, with applications across well-being, public health, and security and privacy in the generative AI era. I approach this through two aspects: 
+My research focuses on <span style="font-weight:700;">applied AI and computational social science for societal impact</span>. I am interested in building data-driven, scalable, and human-centered AI systems to understand human and machine behavior and support decision-making in real-world settings, with applications across well-being, public health, and security and privacy in the generative AI era. I approach this through two aspects: 
 
 1. Building powerful representations to enhance human physical and mental well-being: from understanding their characteristics and underlying factors to designing effective interventions; and
 2. Studying the characteristics, behaviors, and emergent (mis)alignments in human-agent and agent-agent interactions, particularly through the lens of bias and safety.
