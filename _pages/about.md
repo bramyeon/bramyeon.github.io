@@ -28,7 +28,7 @@ tmi: |
   - I was a chemistry enthusiast, but everything changed when the Fire Nation attacked. 
   - I am an ISTP, a mala and mint chocolate lover, and I love my [sugar gliders](https://www.youtube.com/shorts/P4SOS1V83oQ) (thus the 🐿️ icon!).
   - My hobbies are traveling 🏰, [photography](https://www.instagram.com/bryangraphy) 📸, cooking 🥘, singing 🎤, visiting art museums 🏛️, and binge-watching 🍿
-  - As a Chinese Indonesian, I also go by Zhixiong Huang (黃智雄), but I barely speak the language 🥲
+  - As a Chinese Indonesian 🇮🇩, I also go by Zhixiong Huang (黃智雄), but I barely speak the language...
 
 ---
 
