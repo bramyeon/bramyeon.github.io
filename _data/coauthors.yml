@@ -1,76 +1,26 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
-
-
 "cha": 
-  - firstname: ["Meeyoung", "M."]
-    url: https://scholar.google.com/citations?user=iFlnVCoAAAAJ
   - firstname: ["Chiyoung", "C."]
     url: https://scholar.google.com/citations?user=2Dk9-wIAAAAJ
-
+  - firstname: ["Meeyoung", "M."]
+    url: https://scholar.google.com/citations?user=iFlnVCoAAAAJ
+  
 "cho":
   - firstname: ["Aram", "A."]
     url: https://scholar.google.com/citations?user=CSKL0g0AAAAJ
-
-"dong":
-  - firstname: ["Wenchao", "W."]
-    url: https://scholar.google.com/citations?user=q2cJlMkAAAAJ
-
+    
 "hangeldiyev":
   - firstname: ["Begench", "B."]
     url: https://scholar.google.com/citations?user=QZxasAIAAAAJ
-
-"jeung":
-  - firstname: ["Ju Hee", "J. H."]
-    url: https://scholar.google.com/citations?user=1jouZE4AAAAJ
-
-"jung":
-  - firstname: ["Hyunkyu", "H."]
-    url: https://scholar.google.com/citations?user=rFVsUf4AAAAJ
     
 "kim": 
   - firstname: ["Ho Min", "H. M."]
     url: https://scholar.google.com/citations?user=AhBBZ-AAAAAJ
   - firstname: ["Tae-Kyun", "T.-K.", "T. K."]
     url: https://scholar.google.com/citations?user=j2WcLecAAAAJ
-
+    
 "lee":
   - firstname: ["Kyungmin", "K."]
     url: https://scholar.google.com/citations?user=06i8-GQAAAAJ
-  - firstname: ["Minji", "M."]
-    url: https://scholar.google.com/citations?user=Owwixa0AAAAJ
     
 "locatelli":
   - firstname: ["Marcelo Sartori", "Marcelo", "M. S."]
@@ -80,17 +30,9 @@
   - firstname: ["Cheng Yaw", "Cheng-Yaw", "C. Y.", "C.-Y."]
     url: https://scholar.google.com/citations?user=NgRN_6kAAAAJ
 
-"park":
-  - firstname: ["Yumi", "Y."]
-    url: https://scholar.google.com/citations?user=fWr1wBMAAAAJ
-
 "tarte":
   - firstname: ["Naresh H.", "Naresh", "N. H."]
     url: https://scholar.google.com/citations?user=emUPaykAAAAJ
-
-"van gelder":
-  - firstname: ["Jean-Louis", "J.-L.", "J. L."]
-    url: https://scholar.google.com/citations?user=4YtplaEAAAAJ
 
 "vecchietti":
   - firstname: ["Luiz", "Felipe", "Luiz Felipe", "L. F."]
