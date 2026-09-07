@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-07'
 papers:
   QeDc7m4AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: Evaluating Antibody Structure Reconstruction with an SE(3)-Equivariant Graph Neural Network
     year: '2023'
   QeDc7m4AAAAJ:qjMakFHDy7sC:
-    citations: 30
+    citations: 31
     title: Artificial intelligence-driven computational methods for antibody design and optimization
     year: '2025'
   QeDc7m4AAAAJ:u-x6o8ySG0sC:
