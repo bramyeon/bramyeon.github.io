@@ -1,26 +1,6 @@
-"ICML":
-  url: https://icml.cc/
-  color: "#9d007e"
-
 "ACM CSUR":
   url: https://dl.acm.org/journal/csur
   color: "#1975ae"
-
-"HCI Korea":
-  url: https://conference.hcikorea.org/
-  color: "#cca913"
-
-"KSC":
-  url: https://www.kiise.or.kr/academy/board/headeventList.fa?MENU_ID=040200#KSC
-  color: "#bd0134"
-
-"mAbs":
-  url: https://www.tandfonline.com/journals/kmab20
-  color: "#10147e"
-
-"IJCA":
-  url: https://nopr.niscpr.res.in/handle/123456789/59
-  color: "#ff7b30"
 
 "ChemistrySelect":
   url: https://chemistry-europe.onlinelibrary.wiley.com/journal/23656549
@@ -29,6 +9,30 @@
 "EIA Review":
   url: https://www.sciencedirect.com/journal/environmental-impact-assessment-review
   color: "#678104"
+
+"HCI Korea":
+  url: https://conference.hcikorea.org/
+  color: "#cca913"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#009d6e"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#9d007e"
+
+"IJCA":
+  url: https://nopr.niscpr.res.in/handle/123456789/59
+  color: "#ff7b30"
+
+"KSC":
+  url: https://www.kiise.or.kr/academy/board/headeventList.fa?MENU_ID=040200#KSC
+  color: "#bd0134"
+
+"mAbs":
+  url: https://www.tandfonline.com/journals/kmab20
+  color: "#10147e"
 
 "NeurIPS":
   url: https://neurips.cc/
